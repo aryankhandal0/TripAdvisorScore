@@ -16,6 +16,7 @@ AUC Score for each class is 0.84797, 0.6551724, 0.73828125, 0.5693473, 0.7039800
 AUC score is good if >0.7 which is true for 3 classes and thus with this less amount of data this prediction is good.
 
 # Feature Importances
+![alt text](https://github.com/aryankhandal0/TripAdvisorScore/blob/master/download%20(1).png)
 
 
 # More tries
